@@ -1,0 +1,80 @@
+    1  pwd
+    2  d:
+    3  cls
+    4  clear
+    5  vi
+    6  clear
+    7  man
+    8  man ls
+    9  clear
+   10  ls
+   11  clear
+   12  git --version 
+   13  /d
+   14  d
+   15  d:
+   16  clear
+   17  /
+   18  cd d
+   19  cd /d
+   20  clear
+   21  clear
+   22  ls
+   23  md gittuto
+   24  mkdir gittuto
+   25  cd gittuto/
+   26  clear
+   27  touch index.html
+   28  . code
+   29  . code
+   30  clear
+   31  notepad
+   32  code
+   33  touch app.js
+   34  git init
+   35  clear
+   36  git config --global user.name 'krishnamurari'
+   37  git config --global user.email 'premurari@gmail.com'
+   38  git add index.html 
+   39  git status
+   40  git rm --cached index.html 
+   41  git status
+   42  git add *.html
+   43  git status
+   44  git rm --cached index.html 
+   45  git add .
+   46  git status
+   47  git status
+   48  git commit
+   49  git status
+   50  git status
+   51  git status
+   52  git add .
+   53  git commit -m 'Changed app.js'
+   54  clear
+   55  touch .gitignore
+   56  touch log.txt
+   57  git status
+   58  git add .
+   59  git status
+   60  git commit 'def'
+   61  git status
+   62  git status
+   63  clear
+   64  git add .
+   65  git status
+   66  git commit
+   67  clear
+   68  git status
+   69  git branch mybranch
+   70  git commit -m 'another change'
+   71  git checkout mybranch 
+   72  touch index.html
+   73  touch login.html
+   74  git status
+   75  git commit -m 'another change'
+   76  git add .
+   77  git commit -m 'another changes'
+   78  git status
+   79  git checkout master
+   80  history >comman.txt
